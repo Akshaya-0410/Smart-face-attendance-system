@@ -8,6 +8,7 @@ The application is built using Python with libraries such as TensorFlow, OpenCV,
 
 * **GUI-based Interface:** A user-friendly graphical interface built with Tkinter for easy interaction.
 * **User Registration:** Register new users by entering their details and capturing face data.
+* **ArcFace-based Recognition: Uses the ArcFace model for highly accurate face embeddings and recognition.
 * **Real-time Attendance:** Mark attendance in real-time by detecting faces from a webcam feed.
 * **Group Photo Attendance:** Process a group photo to detect multiple faces and mark attendance for all recognized individuals.
 * **Database Integration:** Uses an SQLite database (`attendance.db`) to store user information and attendance records.
@@ -18,7 +19,6 @@ The application is built using Python with libraries such as TensorFlow, OpenCV,
 
 ### Prerequisites
 * Python 3.x
-* Git
 
 ### Steps
 
